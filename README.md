@@ -35,3 +35,6 @@ npm run dev
 - **Lucide React** (Icons)
 - **Vanilla CSS** (High-end "Efinity" dark aesthetic)
 - **Vite** (Build tool)
+
+## License
+This project is licensed under the **PolyForm Non-Commercial License 1.0.0**. See the [LICENSE](LICENSE) file for more details. Commercial use is prohibited without prior consent.
